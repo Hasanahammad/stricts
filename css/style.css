@@ -1,0 +1,189 @@
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-size: 12px;
+  color:;
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.header-section {}
+
+.header {background: #f6f9f9;margin: 0 auto;height: 100px;width: 1200px;}
+.header nav{width: 80%;margin-top: 30px;float: left;}
+.header nav ul {
+}
+.header nav ul li {display: inline-block;}
+.header nav ul li a {text-decoration: none;color: #2d3950;margin-left: 126px;font-size: 20px;}
+.header nav ul li a:hover{
+    background: #e691ff;
+    border-radius: 20px;
+    padding: 10px;
+    transition: 1s;
+    border border-radius:;
+}
+.logo {}
+.logo img{
+  width: 20%;
+  float: left;
+  display: block;
+}
+.banner {/* height: 100vh; */}
+
+.text {
+  background:url(../images/h.jpg);
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 100%;
+  height: 600px;
+  /* height: 100vh; */
+  position: relative;
+  background-size: auto;
+}
+.texx {position: absolute;text-transform: uppercase;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.texx h1{
+    font-size: 100px;
+    color: #f7d8f9;
+}
+.texx span {height: 2px;background: #efb0dc;width: 100%;display: block;}
+.texx button{
+    background: #9e32a9;
+    padding: 10px;
+    font-size: 18px;
+    height: 44px;
+    color: white;
+    width: 46%;
+}
+.texx p {text-transform: uppercase;padding: 20px;}
+.texx a{
+    position: absolute;
+    color: white;
+    bottom: -120px;
+    font-size: 30px;
+    transform: translate(-50%);
+    left: 50%;
+}
+
+
+.arrow-down {
+}
+
+.fa.fa-arrow-down {
+}
+
+.sim {text-align: center;}
+
+.simple {width: 100%;background: #f6f9f9;padding: 27px;/* height: 50vh; */}
+.simple h1{font-size: 31px;padding: 18px;}
+.simple p{
+}
+
+.icon {/* height: 50vh; */padding: 31px;width: 100%;}
+
+.f1 {width: 33.33%;float: left;text-align: center;}
+.f1 img{
+}
+.f1 h1{
+}
+.f1 p{
+}
+
+
+.f2 {width: 33.33%;float: left;text-align: center;}
+.f2 img{
+}
+.f2 h1{
+}
+.f2 p{
+}
+
+.f3 {width: 33.33%;float: left;text-align: center;}
+.f3 img{
+}
+.f3 h1{
+}
+.f3 p{
+}
+.images {text-align: center;}
+
+.h1 {text-align: center;/* padding: 91px; */margin-top: 200px;}
+.h1 h1{
+    font-size: 36px;
+    margin-top: 40px;
+}
+.h1 p{font-size: 18px;padding: 31px;}
+.image {/* height: 112vh; */}
+
+.i1 {
+}
+.i1 img{float: left;width: 400px;}
+
+.i2 {
+}
+.i2 img{width: 400px;float: left;}
+
+
+.i3 {
+}
+
+.i3 img{width: 400px;float: left;}
+
+.i4 {
+}
+.i4 img{float: left;width: 400px;}
+.i5 {
+}
+.i5 img{width: 400px;float: left;}
+
+.i6 img{width: 400px;float: left;}
+
+.i6 {
+}
+
+.form {background:url(../images/k.jpg);
+}
+
+.form {text-align: center;width: 100%;padding: 31px;float: left;}
+.form h1{font-size: 37px;padding: 10px;color: white;}
+.form p{font-size: 20px;padding: 10px;color: white;}
+.form form input{width: 50%;height: 47px;margin: 2px;}
+.form form button{padding: 11px;text-transform: uppercase;width: 42%;text-decoration: none;background: #c0ddef;}
+.form form textarea{
+    height: 148px;
+    width: 50%;
+}
+.form form ul {
+    width: 100%;
+}
+.form form ul li{
+    display: inline-block;
+    width: 35%;
+}
+.form form ul li span{color: white;font-size: 17px;}
+.form form ul li input{
+    width: 4%;
+    height: 15px;
+}
+footer{margin: 12px;margin-left: 150px;}
+footer p{
+    =: 58%
+    padding: 20px;
+    =: 20px
+    font-size:;
+    color: #2e49a0;
+    font-size: 16px;
+    width: 80%;
+    float: left;
+    margin-top: 15px;
+}
+.h1 span {
+    height: 2px;
+    background: #5fc3ff;
+    width: 100%;
+    display: block;
+}
+.form form{padding: 15px;}
